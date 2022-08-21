@@ -1,8 +1,10 @@
 ![colony of seagulls near the sea]
 
 <p align="center">Hello I'm Alex, I write open source software.</p>
-<p align="center">I started studying Computer Science and Engineering at Luleå University of Technology in 2022,</p>
-<p align="center">but I've been programming as a hobbyist (in one way or another) since around ~2002.</p>
+<p align="center">
+I started studying Computer Science and Engineering at Luleå University of Technology in 2022,<br>
+but I've been programming as a hobbyist (in one way or another) since around ~2002.
+</p>
 
 <p align="center">
     <a href="https://larus.se">
