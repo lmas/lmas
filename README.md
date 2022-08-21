@@ -24,5 +24,5 @@
 
 
 [colony of seagulls near the sea]: seagulls.png
-[langs]: https://github-readme-stats.vercel.app/api/top-langs?username=lmas&layout=compact&hide_border=true&title_color=151515
+[langs]: https://github-readme-stats.vercel.app/api/top-langs?username=lmas&layout=compact&hide_border=true&title_color=151515&card_width=300
 [stats]: https://github-readme-streak-stats.herokuapp.com/?user=lmas&hide_border=true
