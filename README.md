@@ -1,14 +1,14 @@
-![colony of seagulls near the sea]
+<img alt="colony of seagulls near the sea" width="95%" src="assets/seagulls.png">
 
 <p align="center">
     <a href="https://larus.se">
-        <img alt="Blog" src="assets/blog-badge.png">
+        <img alt="Blog" src="assets/blog-badge.svg">
     </a>
     <a href="https://github.com/lmas/lmas/discussions">
-        <img alt="Mail" src="assets/comment-badge.png">
+        <img alt="Mail" src="assets/comment-badge.svg">
     </a>
     <a href="mailto:hello@larus.se">
-        <img alt="Mail" src="assets/mail-badge.png">
+        <img alt="Mail" src="assets/mail-badge.svg">
     </a>
 </p>
 
@@ -17,12 +17,7 @@ Hello I'm **Alex**, I write open source software.
 I started studying Computer Science and Engineering at Luleå University of Technology in 2022, \
 but I've been programming as a hobbyist (in one way or another) since around 2002.
 
----
+<br>
+<img alt="github stats" width="55.5%" src="https://github-readme-stats.vercel.app/api?username=lmas&layout=compact&hide_border=true&theme=gruvbox&line_height=20">
 
-[![langs]](https://github.com/anuraghazra/github-readme-stats)
-
-[![stats]](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[colony of seagulls near the sea]: assets/seagulls.png
-[langs]: https://github-readme-stats.vercel.app/api/top-langs?username=lmas&layout=compact&hide_border=true&title_color=151515
-[stats]: https://github-readme-streak-stats.herokuapp.com/?user=lmas&hide_border=true
+<img alt="github top languages" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lmas&layout=compact&hide_border=true&theme=gruvbox&line_height=62">
