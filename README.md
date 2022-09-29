@@ -4,9 +4,6 @@
     <a href="https://larus.se">
         <img alt="Blog" src="assets/blog-badge.svg">
     </a>
-    <a href="https://github.com/lmas/lmas/discussions">
-        <img alt="Mail" src="assets/comment-badge.svg">
-    </a>
     <a href="mailto:hello@larus.se">
         <img alt="Mail" src="assets/mail-badge.svg">
     </a>
@@ -15,7 +12,7 @@
 Hello I'm **Alex**, I write open source software.
 
 I started studying Computer Science and Engineering at Luleå University of Technology in 2022,
-but I've been programming as a hobbyist (in one way or another) since around 2002.
+but I've been programming as a hobbyist (in one way or another) since forever.
 
 <p>
     <img alt="github stats" width="55.5%" src="https://github-readme-stats.vercel.app/api?username=lmas&layout=compact&hide_border=true&theme=gruvbox&line_height=20">
