@@ -7,6 +7,9 @@
     <a href="mailto:hello@larus.se">
         <img alt="Mail" src="assets/mail-badge.svg">
     </a>
+    <a href="https://gist.github.com/lmas">
+        <img alt="Gist" src="assets/gist-badge.svg">
+    </a>
 </p>
 
 Hello I'm **Alex**, I write open source software.
