@@ -7,7 +7,7 @@
     <a href="mailto:hello@larus.se">
         <img alt="Mail" src="assets/mail-badge.svg">
     </a>
-    <a href="https://social.larus.se/@lmas">
+    <a rel="me" href="https://social.larus.se/@lmas">
         <img alt="Mastodon" src="assets/mastodon-badge.svg">
     </a>
     <a href="https://gist.github.com/lmas">
