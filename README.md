@@ -4,7 +4,7 @@
     <a href="https://larus.se">
         <img alt="Blog" src="assets/blog-badge.svg">
     </a>
-    <a href="mailto:hello@larus.se">
+    <a href="mailto:hellofromgithub@larus.se">
         <img alt="Mail" src="assets/mail-badge.svg">
     </a>
     <a rel="me" href="https://social.larus.se/@lmas">
